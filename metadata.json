@@ -1,0 +1,5 @@
+{
+  "name": "Calendar-Plus",
+  "description": "A high-performance, offline-capable calendar application with real-time clock, month/year countdowns, and daily motivational quotes. Features a beautiful dark gradient theme and smooth animations.",
+  "requestFramePermissions": []
+}
